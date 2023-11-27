@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{F2075B81-73A5-4CF9-BD41-8747DA82A366}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SyncAPI/Controllers/SyncController.cs">
+    <Files>
+      <File FileName="SyncAPI/Models/Produto.cs" Line="13" Column="1" />
+      <File FileName="SyncAPI/Models/Visitas.cs" Line="12" Column="1" />
+      <File FileName="SyncAPI/Interfaces/IProdutoService.cs" />
+      <File FileName="SyncAPI/Interfaces/ProdutoService.cs" Line="14" Column="9" />
+      <File FileName="SyncAPI/Program.cs" Line="9" Column="95" />
+      <File FileName="SyncAPI/Context/SyncAPIDbContext.cs" Line="1" Column="1" />
+      <File FileName="SyncAPI/Interfaces/IVisitasService.cs" />
+      <File FileName="SyncAPI/Interfaces/VisitasService.cs" />
+      <File FileName="SyncAPI/appsettings.json" />
+      <File FileName="SyncAPI/Controllers/ProdutoController.cs" Line="14" Column="34" />
+      <File FileName="SyncAPI/Controllers/VisitasController.cs" Line="1" Column="1" />
+      <File FileName="SyncAPI/Controllers/SyncController.cs" Line="25" Column="1" />
+      <File FileName="SyncAPI/Models/SyncData.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SyncAPI" expanded="True">
+            <Node name="SyncAPI" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="SyncController.cs" selected="True" />
+              </Node>
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SyncAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

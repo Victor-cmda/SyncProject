@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/victor.somavilla/Projects/SyncMobile/SyncMobile/bin/Debug/net7.0-maccatalyst/maccatalyst-x64/SyncMobile.app/Contents/MonoBundle/libe_sqlite3.dylib

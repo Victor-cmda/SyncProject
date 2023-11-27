@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="SyncMobile.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:SyncMobile"
+    xmlns:pages="clr-namespace:SyncMobile.Pages"
+    Shell.FlyoutBehavior="Disabled" 
+    Shell.TabBarIsVisible="True">
+
+    <TabBar>
+         <Tab Title="Home" Icon="home.png">
+            <ShellContent ContentTemplate="{DataTemplate local:MainPage}" />
+        </Tab>
+        <Tab Title="Visitas" Icon="homecity.png">
+            <ShellContent ContentTemplate="{DataTemplate pages:VisitasPage}" />
+        </Tab>
+        <Tab Title="Produtos" Icon="archive.png"> 
+            <ShellContent ContentTemplate="{DataTemplate pages:ProdutosPage}" />
+        </Tab>
+        <Tab Title="Sincronizar" Icon="sync.png"> 
+            <ShellContent ContentTemplate="{DataTemplate pages:SyncPage}" />
+        </Tab>
+    </TabBar>
+</Shell>

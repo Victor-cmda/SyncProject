@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = SyncMobile
+build_property.ProjectDir = /Users/victor.somavilla/Projects/SyncMobile/SyncMobile/
+
+[/Users/victor.somavilla/Projects/SyncMobile/SyncMobile/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SyncMobile.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/victor.somavilla/Projects/SyncMobile/SyncMobile/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SyncMobile.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/victor.somavilla/Projects/SyncMobile/SyncMobile/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SyncMobile.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/victor.somavilla/Projects/SyncMobile/SyncMobile/Pages/Produtos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SyncMobile.Pages.Produtos.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/Produtos.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/Produtos.xaml
+
+[/Users/victor.somavilla/Projects/SyncMobile/SyncMobile/Pages/ProdutosPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SyncMobile.Pages.ProdutosPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/ProdutosPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/ProdutosPage.xaml
+
+[/Users/victor.somavilla/Projects/SyncMobile/SyncMobile/Pages/SyncPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SyncMobile.Pages.SyncPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/SyncPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/SyncPage.xaml
+
+[/Users/victor.somavilla/Projects/SyncMobile/SyncMobile/Pages/Visitas.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SyncMobile.Pages.Visitas.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/Visitas.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/Visitas.xaml
+
+[/Users/victor.somavilla/Projects/SyncMobile/SyncMobile/Pages/VisitasPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SyncMobile.Pages.VisitasPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages/VisitasPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages/VisitasPage.xaml
+
+[/Users/victor.somavilla/Projects/SyncMobile/SyncMobile/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SyncMobile.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/victor.somavilla/Projects/SyncMobile/SyncMobile/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SyncMobile.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml

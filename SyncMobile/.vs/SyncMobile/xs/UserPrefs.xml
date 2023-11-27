@@ -1,0 +1,47 @@
+﻿<Properties BuildWithMSBuildOnMono="True" StartupConfiguration="{CF4D6217-5259-4F94-88A2-A1E9EE868A93}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SyncMobile/SyncMobile.csproj">
+    <Files>
+      <File FileName="SyncMobile/AppShell.xaml" Line="19" Column="50" />
+      <File FileName="../../../../usr/local/share/dotnet/packs/Microsoft.MacCatalyst.Sdk/16.4.7125/tools/msbuild/iOS/Xamarin.Shared.targets" Line="1775" Column="18" />
+      <File FileName="SyncMobile/Context/Context.cs" Line="40" Column="1" />
+      <File FileName="SyncMobile/MauiProgram.cs" Line="14" Column="76" />
+      <File FileName="SyncMobile/Models/Icons.cs" Line="871" Column="39" />
+      <File FileName="SyncMobile/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="SyncMobile/App.xaml" Line="1" Column="1" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.404/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="266" Column="5" />
+      <File FileName="SyncMobile/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="SyncMobile/SyncMobile.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SyncMobile" expanded="True">
+            <Node name="SyncMobile" expanded="True" selected="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Produtos.xaml" expanded="True" />
+                <Node name="ProdutosPage.xaml" expanded="True" />
+                <Node name="Visitas.xaml" expanded="True" />
+              </Node>
+              <Node name="Resources" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SyncMobile PreferredExecutionTarget="Android.pixel_5_-_api_33" Xamarin.HotReload.DebuggerTimeoutException.SyncMobile.HideInfoBar="True" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.95" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

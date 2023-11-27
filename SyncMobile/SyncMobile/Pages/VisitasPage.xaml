@@ -1,0 +1,46 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SyncMobile.Pages.VisitasPage"
+             Title="Lista de Visitas">
+
+    <Grid>
+        <ListView x:Name="ListViewVisitas" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid MinimumHeightRequest="120">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/> 
+                            </Grid.ColumnDefinitions>
+
+                            <Image Source="homecity.png"
+                                   HeightRequest="70"
+                                   WidthRequest="70"
+                                   Grid.RowSpan="2"
+                                   Margin="20">
+                                    
+                            </Image>
+
+                            <StackLayout Grid.Column="1" Orientation="Vertical" Spacing="10" Margin="0,10,0,0">
+                                <Label Text="{Binding Localizacao}" FontAttributes="Bold" FontSize="Large"/>
+                                <Label Text="{Binding Data}" FontSize="Medium"/>
+                            </StackLayout>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button Text="+" 
+                FontAttributes="Bold" 
+                FontSize="Large" 
+                Clicked="OnAdicionarNovoProdutoClicked"
+                HorizontalOptions="End"
+                VerticalOptions="End"
+                Margin="10"
+                WidthRequest="50" 
+                HeightRequest="50"
+                CornerRadius="25"/>
+    </Grid>
+</ContentPage>

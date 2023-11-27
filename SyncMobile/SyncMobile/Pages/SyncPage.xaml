@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SyncMobile.Pages.SyncPage"
+             Title="Sincronização">
+
+    <VerticalStackLayout Spacing="20" Padding="20" VerticalOptions="Center">
+
+        <Image Source="sync.png"
+               Aspect="AspectFill"
+               HeightRequest="200"
+               HorizontalOptions="Center" />
+
+        <Label Text="Página de Sincronização"
+               HorizontalOptions="Center"
+               FontAttributes="Bold"/>
+
+        <Button x:Name="StartSyncButton"
+                Text="Iniciar Sincronização"
+                Clicked="OnStartSyncClicked"/>
+
+        <Label x:Name="StatusLabel"
+               Text="Aguardando início..."
+               HorizontalOptions="Center"/>
+
+        <ProgressBar x:Name="SyncProgressBar"
+                     IsVisible="False"/>
+    </VerticalStackLayout>
+</ContentPage>
